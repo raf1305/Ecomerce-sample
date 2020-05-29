@@ -8,3 +8,5 @@ Image file is same for all of the item
 2.Make the connection of Database with 'backend.js'.
 3.Start the backend.js file with node/nodemon command which will start the backend server and we will fetch information from that.
 4.Go to directory of clientend and run command 'npm start'.It will start the front end page.
+
+#It has some issues still.
