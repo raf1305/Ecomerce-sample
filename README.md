@@ -10,3 +10,5 @@ Image file is same for all of the item
 4.Go to directory of clientend and run command 'npm start'.It will start the front end page.
 
 #It has some issues still.
+currently hosted at:
+http://avernus1305.me:5001/
